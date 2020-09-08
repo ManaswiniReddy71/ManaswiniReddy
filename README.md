@@ -1,5 +1,5 @@
 # Terrorism Analysis With Insights
-Terrorism Analysis With Insights
+
 Data analysts exist at the intersection of information technology, statistics and business. They combination of these fields in order to help businesses and organizations succeed.
 In this, Presentation of a Web App using Python Sciprt & by applying Dash Framework for displaying visualization of data of Global Terrorism data with the help of a DataSet of approximately 2 Lakh records is done.
 
